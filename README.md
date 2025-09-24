@@ -15,9 +15,6 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
-
 ![IMG_2003](https://github.com/user-attachments/assets/e8c926b1-210c-4a2d-93aa-2494c4c0b3db)
 (First visualization portrays a trend over time of the unemployment rates in the state of Rhode Island. This visualization answers the second question by showing the spikes and drops)
 (Second visualization portrays the average unemployment rate in the state of Rhode Island by decade. To provide more context, this visualization can go deeper on the last question as it can be used to pinpoint a specific year/month)
