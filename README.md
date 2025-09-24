@@ -2,47 +2,47 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
-
+The data I propose to visualize for my project are the Rhode Island Employment Rates from 1976 to present time. I derived this information from this dataset: https://fred.stlouisfed.org/series/RIUR
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How has the Rhode Island Unemployment Rate changed over time?
+ * Where does the unemployment rate spike and drop?
+ * What events caused the unemployment rates to drop?
+ * Is it possible to pinpoint the exact unemployment rate at a specific year/month?
 
 ## Sketches
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
+![IMG_2003](https://github.com/user-attachments/assets/e8c926b1-210c-4a2d-93aa-2494c4c0b3db)
+(First visualization portrays a trend over time of the unemployment rates in the state of Rhode Island. This visualization answers the second question by showing the spikes and drops)
+(Second visualization portrays the average unemployment rate in the state of Rhode Island by decade. To provide more context, this visualization can go deeper on the last question as it can be used to pinpoint a specific year/month)
+
+![IMG_2004](https://github.com/user-attachments/assets/d078c6e1-04aa-4667-8774-4dd58b95355c)
+(This visualization portrays another trend over time of the unemployment rate but with anomalies highlighted, such as spikes in the unemployment rate. This visualization can aid in answering the third and fourth questions.)
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows the unemployment rate trend over time.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+~~
+<img width="1440" height="750" alt="image" src="https://github.com/user-attachments/assets/09caa9f0-869c-4dbb-8c06-8ff4c1c5939c" />
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+~~
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+My goal for this project is to make it interactive and very detailed. I think there is a lot of potential in this dataset and I want to make the most out of it. However, I am not very confident that I will be able to attain what I truly am envisioning in my mind into reality. For example, I want to try and find a way that I can use another dataset that can be used to compare the Rhode Island unemployment rate vs the National unemployment rate.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Each week, I plan to add small tweaks to my overall goal. By the end of the end of this course, I should have been able to turn my vision into a reality with this visualization.
+
+End of September: Finish the static visualization (prototype) by adding color and small details.
+End of October: Add some interactivity.
+End of November: Add depth and context -- this is where I can start to add the national comparison and highlight where these datasets overlap in the visualization.
+End of the course period: Add finishing visualization details.
