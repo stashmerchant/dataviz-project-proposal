@@ -40,6 +40,9 @@ My goal for this project is to make it interactive and very detailed. I think th
 Each week, I plan to add small tweaks to my overall goal. By the end of the end of this course, I should have been able to turn my vision into a reality with this visualization.
 
 End of September: Finish the static visualization (prototype) by adding color and small details.
+
 End of October: Add some interactivity.
+
 End of November: Add depth and context -- this is where I can start to add the national comparison and highlight where these datasets overlap in the visualization.
+
 End of the course period: Add finishing visualization details.
