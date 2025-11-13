@@ -34,12 +34,15 @@ I’ve created a proof of concept visualization of this data. It's a scatterplot
 ## Project Versions
 
 Version 1
+
 https://vizhub.com/stashmerchant/76175c0c96d34af4855c59e32dd9a545
 
 Version 2
+
 https://vizhub.com/stashmerchant/333ffd9bef344d4788cffce567ed7f93
 
 Version 3
+
 https://vizhub.com/stashmerchant/f32e02b3b9564959991229eb12f96eae
 
 Version 4
