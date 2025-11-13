@@ -31,6 +31,26 @@ I’ve created a proof of concept visualization of this data. It's a scatterplot
 
 ~~
 
+## Project Versions
+
+Version 1
+https://vizhub.com/stashmerchant/76175c0c96d34af4855c59e32dd9a545
+
+Version 2
+https://vizhub.com/stashmerchant/333ffd9bef344d4788cffce567ed7f93
+
+Version 3
+https://vizhub.com/stashmerchant/f32e02b3b9564959991229eb12f96eae
+
+Version 4
+https://vizhub.com/stashmerchant/def0ce8f6aa14a3498734ba0b43b530e
+
+Version 5
+https://vizhub.com/stashmerchant/5d7d6ccb5ac6492893fb0a0f5a3fe0e7
+
+Version 6
+https://vizhub.com/stashmerchant/ce0ffaba10e94a1897fff404ba30b7e5
+
 ## Open Questions
 
 My goal for this project is to make it interactive and very detailed. I think there is a lot of potential in this dataset and I want to make the most out of it. However, I am not very confident that I will be able to attain what I truly am envisioning in my mind into reality. For example, I want to try and find a way that I can use another dataset that can be used to compare the Rhode Island unemployment rate vs the National unemployment rate.
