@@ -46,12 +46,15 @@ Version 3
 https://vizhub.com/stashmerchant/f32e02b3b9564959991229eb12f96eae
 
 Version 4
+
 https://vizhub.com/stashmerchant/def0ce8f6aa14a3498734ba0b43b530e
 
 Version 5
+
 https://vizhub.com/stashmerchant/5d7d6ccb5ac6492893fb0a0f5a3fe0e7
 
 Version 6
+
 https://vizhub.com/stashmerchant/ce0ffaba10e94a1897fff404ba30b7e5
 
 ## Open Questions
