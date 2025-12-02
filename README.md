@@ -19,7 +19,7 @@ The following tasks and questions will drive the visualization and interaction d
 (Second visualization portrays the average unemployment rate in the state of Rhode Island by decade. To provide more context, this visualization can go deeper on the last question as it can be used to pinpoint a specific year/month)
 
 ![IMG_2004](https://github.com/user-attachments/assets/d078c6e1-04aa-4667-8774-4dd58b95355c)
-(This visualization portrays another trend over time of the unemployment rate but with anomalies highlighted, such as spikes in the unemployment rate. This visualization can aid in answering the third and fourth questions.)
+(This visualization portrays another trend over time of the unemployment rate but with anomalies highlighted, such as spikes in the unemployment rate. This visualization can aid in answering the last question.)
 
 ## Prototypes
 
