@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I used to visualize my final project are the Rhode Island Unemployment Rates and the National Unemployment Rates from 1976 to present time. I derived this information from this dataset: https://fred.stlouisfed.org/series/RIUR
+The data I used to visualize my final project are the Rhode Island Unemployment Rates and the National Unemployment Rates from 1976 to present time. I derived this information from these datasets: https://fred.stlouisfed.org/series/RIUR. https://fred.stlouisfed.org/series/UNRATE
 
 ## Questions & Tasks
 
