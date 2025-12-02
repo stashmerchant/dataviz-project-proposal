@@ -10,7 +10,6 @@ The following tasks and questions will drive the visualization and interaction d
 
  * How has the Rhode Island Unemployment Rate changed over time?
  * Where does the unemployment rate spike and drop?
- * What events caused the unemployment rates to drop?
  * Is it possible to pinpoint the exact unemployment rate at a specific year/month?
 
 ## Sketches
